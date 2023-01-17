@@ -27,7 +27,9 @@ This project documents my settings and workflow for video shooting, editing, pub
 * Create playlist
 * Send email with links to videos and playlist
 * Troubleshooting: Some of the videos recorded on 9-3-2022 transferred fine to the external harddrive via the method above and some did not so I had to airdrop them from my phone to my computer, copy from "Downloads" to the T7 and delete it in downloads, and go to "Finder", "Empty Trash". Super annoying - No, now I realized this was not annoying because I learned a better way of doing things. Isn't the universe wonderful?
-
+#### Music
+* https://audiojungle.net/ 
+* Audio Jungle - Royalty free music and audio tracks
 ## Templates
 * Game Scoring
    * rocketbook template
