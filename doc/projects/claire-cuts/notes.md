@@ -73,5 +73,3 @@
 - 7-2 hit success
 - 8-5 hit success
 - 9-8 pass
-
-### Game 4
